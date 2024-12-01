@@ -1,6 +1,4 @@
-Here’s a basic `README.md` template for your project. You can customize it further based on your preferences.
 
-```markdown
 # Sea Level Rise Prediction
 
 This project uses a dataset of sea level measurements and applies linear regression to predict the rise in sea level over time. It visualizes the relationship between the year and the sea level through a scatter plot and a line of best fit, extending predictions up to the year 2050.
