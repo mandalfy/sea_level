@@ -82,9 +82,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Feel free to fork this repository, submit issues, or create pull requests for improvements or new features!
 
-## Contact
 
-For any questions, feel free to reach out to [Your Name](your-email@example.com).
 ```
 
 ### Key Sections:
